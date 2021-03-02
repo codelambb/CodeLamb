@@ -6,7 +6,7 @@
 
 # Why I program
 
-*"I program discord bots in python (discord.py) for other people or for myself for fun!"*
+*"I program for fun!"*
 
 # My Websites
 
